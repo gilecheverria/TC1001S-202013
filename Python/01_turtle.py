@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 First example of using the turtle graphics library in Python
-Drawing simple shapes
+Drawing the shape of a square of side length 400
 
 Gilberto Echeverria
 26/03/2019

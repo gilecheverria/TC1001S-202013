@@ -54,8 +54,8 @@ def get_segments():
 
 def main():
     """ Initial function to setup the drawing """
-    colors = ['red', 'green', 'blue', 'yellow', 'cyan', 'magenta']
-    radius = 200
+    colors = ['magenta', 'cyan', 'blue', 'green', 'yellow', 'red']
+    radius = 350
     num_segments = get_segments()
     configure_pen()
     draw_polygon(radius, num_segments)

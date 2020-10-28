@@ -48,7 +48,7 @@ def get_segments():
     if len(sys.argv) > 1:
         num_segments = int(sys.argv[1])
     else:
-        num_segments = 8
+        num_segments = 16
     return num_segments
 
 

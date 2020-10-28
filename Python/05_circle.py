@@ -29,8 +29,8 @@ def draw_circle(radius, segments, colors):
 
 def configure_pen():
     """ Set the desired speed and pen size for the drawing """
-    turtle.speed(1)
-    turtle.pensize(2)
+    turtle.speed(2)
+    turtle.pensize(3)
     turtle.shape("turtle")
     #turtle.hideturtle()
 
